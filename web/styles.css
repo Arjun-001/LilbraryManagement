@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26-Dec-2017, 12:03:18 AM
+    Author     : arjun
+*/
+h1{
+
+}
+.search{
+    font-size: 1.5em;
+    text-align: center;
+    
+}
+#right{
+    
+    float: none;
+    float:right;
+}
+#left{
+    float: none;
+    float:left;
+}
+div{
+    font-size: 1.5em;
+}
+.links{
+    font-size: 1.5em;
+    font-weight: bold;
+}table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+    opacity: 1;
+}
+th{
+    height: 50px;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+#para1 {
+    text-align: center;
+    color: red;
+}
+.box{
+    width: 400px;
+    height: 400px;
+    top: 50%;
+    left: 50%;
+    margin: 0 auto;
+    padding:30px;
+    border: 2px solid #40FFC9;
+    border-radius: 5px;
+}
+
+.button{
+    background:    #6aa84f;
+    border:        1px solid #556699;
+    border-radius: 8px;
+    box-shadow:    0 3px #444444;
+    padding:       9px 21px;
+    color:         #f3f3f3;
+    display:       inline-block;
+    font:          normal 700 28px/1 "Calibri", sans-serif;
+    text-align:    center;
+    text-shadow:   4px 4px #666666;
+    margin-right: 35px;
+    margin-top: 10px;
+    margin-bottom:  10px;
+    margin-left: 45px;
+}
+.logout{
+    background:    #6aa84f;
+    border:        1px solid #556699;
+    border-radius: 8px;
+    box-shadow:    0 3px #444444;
+    padding:       9px 21px;
+    color:         #f3f3f3;
+    display:       inline-block;
+    font:          normal 700 28px/1 "Calibri", sans-serif;
+    text-align:    center;
+    text-shadow:   4px 4px #666666;
+}
