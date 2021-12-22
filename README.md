@@ -42,5 +42,5 @@ o	HTML is used for the web user interface and will be where the users interact w
 o	CSS is used solely to enhance the user interface by make it more user-friendly and better designed
 o	JSP and Java Servlets provide the connectivity needed to link the databases and the system’s web site and allow the whole system to function as intended.
 
-#Usage
+# Usage
 Change the connection strings in the files to match the location where you store the database.
